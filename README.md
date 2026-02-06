@@ -9,11 +9,7 @@ Advanced Tunnel Script
 
 ---
 
-<span class="hljs-section">## 🌍 Language / زبان</span>
-<span class="hljs-bullet">-</span> [<span class="hljs-string">English</span>](<span class="hljs-link">#english</span>)
-<span class="hljs-bullet">-</span> [<span class="hljs-string">فارسی</span>](<span class="hljs-link">#فارسی</span>)
 
----
 
 <span class="hljs-section">## English</span>
 
@@ -28,5 +24,5 @@ Advanced Tunnel Script
 To install and run <span class="hljs-strong">**PointConnect**</span>, simply copy and paste the command below into your Linux terminal (Root access required):
 
 <span class="hljs-code">```bash
-bash &lt;(curl -Ls [https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh](https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh))
+bash &lt;(curl -Ls [https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh](https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh))```
 </span>
