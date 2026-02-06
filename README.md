@@ -4,7 +4,6 @@
 
 ## 🚀 Features
 - **One-Click Installation:** Automatically installs all necessary dependencies (PHP-CLI, CURL, etc.).
-- **Smart Persistence:** Automatically creates and configures `/etc/rc.local` to ensure tunnels survive reboots.
 - **Bi-Directional Support:** Specialized configurations for both Gateway (Iran) and Hub (Kharej) modes.
 - **Modern Interface:** A clean, color-coded CLI designed by Moein.
 - **Secure Execution:** Remote-fetch execution to keep your server environment clean.
