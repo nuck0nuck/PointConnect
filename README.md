@@ -1,28 +1,18 @@
-# PointConnect
-Advanced Tunnel Script
+# PointConnect: Advanced Tunnel Script
 
+**PointConnect** is a high-performance tunneling solution designed for seamless and stable connectivity between servers. This script provides an automated way to bridge network gaps with a focus on speed and ease of use.
 
-
-<span class="hljs-strong">**PointConnect**</span> is a professional and high-performance tunneling solution designed for seamless connectivity between servers. Developed by <span class="hljs-strong">**Moein**</span>, this tool focuses on speed, stability, and ease of use for advanced network routing.
-
-
+## 🚀 Features
+- **One-Click Installation:** Automatically installs all necessary dependencies (PHP-CLI, CURL, etc.).
+- **Smart Persistence:** Automatically creates and configures `/etc/rc.local` to ensure tunnels survive reboots.
+- **Bi-Directional Support:** Specialized configurations for both Gateway (Iran) and Hub (Kharej) modes.
+- **Modern Interface:** A clean, color-coded CLI designed by Moein.
+- **Secure Execution:** Remote-fetch execution to keep your server environment clean.
 
 ---
 
+## 🛠 How to Run?
+To start the installer, simply run the following command on your Linux server (Root access required):
 
-
-<span class="hljs-section">## English</span>
-
-<span class="hljs-section">### 🌟 Features</span>
-<span class="hljs-bullet">-</span> <span class="hljs-strong">**Automated Setup:**</span> Installs all prerequisites (PHP, CURL, etc.) automatically.
-<span class="hljs-bullet">-</span> <span class="hljs-strong">**Dynamic Routing:**</span> Easily bridge Iran and International servers.
-<span class="hljs-bullet">-</span> <span class="hljs-strong">**Persistence:**</span> Configurations are saved and re-applied on system reboot.
-<span class="hljs-bullet">-</span> <span class="hljs-strong">**Fast &amp; Secure:**</span> Optimized for low-latency data transfer.
-<span class="hljs-bullet">-</span> <span class="hljs-strong">**User-Friendly:**</span> Clean, color-coded terminal interface.
-
-<span class="hljs-section">### 🛠 Installation</span>
-To install and run <span class="hljs-strong">**PointConnect**</span>, simply copy and paste the command below into your Linux terminal (Root access required):
-
-<span class="hljs-code">```bash
-bash &lt;(curl -Ls [https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh](https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh))```
-</span>
+```bash
+bash <(curl -Ls [https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh](https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh))```
