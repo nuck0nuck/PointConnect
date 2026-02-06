@@ -14,4 +14,4 @@
 To start the installer, simply run the following command on your Linux server (Root access required):
 
 ```bash
-bash <(curl -Ls [https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh](https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh))```
+bash <(curl -Ls https://github.com/nuck0nuck/PointConnect/raw/refs/heads/main/install.sh)```
